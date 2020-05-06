@@ -5,6 +5,6 @@ python:
   version: 3.8
   install:
     - method: pip
-      path: .
+      path: ./requirements.txt
     - method: setuptools
       path: lightgallery-markdown
