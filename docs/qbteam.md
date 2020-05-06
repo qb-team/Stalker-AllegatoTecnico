@@ -2,7 +2,7 @@
 
 <p align = "center">
 
-<img src = "./Immagini/qbteam.png" alt = "Logo qbteam" />
+<img src = "../Immagini/qbteam.png" alt = "Logo qbteam" />
 
 </p>
 
