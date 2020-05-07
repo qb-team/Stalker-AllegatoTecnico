@@ -8,12 +8,12 @@ Vengono presentati qui di seguito i diagrammi UML delle classi relativi all'appl
 
 ___
 ## Login
-![!LoginFragment](../Immagini/App/Classi/LoginFragment.png)
+![!LoginFragment](../Immagini/App/Classi/LoginFragment.png "Diagramma delle classi di Login")
 <figcaption align="center"> <em> Diagramma delle classi del Login </em> </figcaption>
 
 ___
 ## SignUp
-![!SignUpFragment](../Immagini/App/Classi/SignUpFragment.png)
+![!SignUpFragment](../Immagini/App/Classi/SignUpFragment.png "Diagramma delle classi di SignUp")
 <figcaption align="center"> <em> Diagramma delle classi del SignUp </em> </figcaption>
 
 ___
@@ -22,7 +22,7 @@ ___
 <figcaption align="center"> <em> Diagramma delle classi del Action Tab </em> </figcaption>
 
 ___
-## Home Fragment 
+## Home 
 ![!HomeFragment](../Immagini/App/Classi/HomeFragment.png "Diagramma delle classi di Home Fragment")
 <figcaption align="center"> <em> Diagramma delle classi di Home </em> </figcaption>
 
@@ -33,8 +33,8 @@ ___
 
 ___
 ## Standard Organization
-![!StandardOrganizationFragment](../Immagini/App/Classi/StandardOrganizationFragment.png "Diagramma delle classi del LDAP Organization")
-<figcaption align="center"> <em> Diagramma delle classi del Standard Organization</em> </figcaption>
+![!StandardOrganizationFragment](../Immagini/App/Classi/StandardOrganizationFragment.png "Diagramma delle classi del Standard Organization")
+<figcaption align="center"> <em> Diagramma delle classi dello Standard Organization</em> </figcaption>
 
 ___
 ## LDAP Organization
